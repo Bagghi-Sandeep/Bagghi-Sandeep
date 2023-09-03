@@ -1,4 +1,4 @@
-![logo](https://github.com/Bagghi-Sandeep/Bagghi-Sandeep/blob/main/White%20Blue%20Modern%20Webinar%20Banner%20Landscape.png)
+![logo](https://github.com/Bagghi-Sandeep/Bagghi-Sandeep/blob/main/Black%20and%20Beige%20Minimal%20Professional%20Portfolio%20Presentation%20(1).jpg)
 <h1 align="center">Hi 👋, I'm Sandeep Panigrahi</h1>
 <h3 align="center">A passionate Electronics And Telecommunication Engineer from India</h3>
 
